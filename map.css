@@ -1,0 +1,65 @@
+/* Style de la carte */
+body { margin: 0; padding: 0; }
+
+#carte {
+    position: sticky; margin: 15%; padding: 20em; 
+}
+#bar{
+    position:absolute;
+    background: #efefef;
+    padding: 10px;
+
+}
+#map { position: absolute; width: 100%; height: 100%;}
+
+#requir { position: absolute; top: 250px; left: 400px; width: 100%; height: 100%; max-width: 1200px; max-height: 900px; }
+
+#ecart {padding: 33em;}
+
+
+#menu {
+    position: absolute;
+    background: #efefef;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.search-container {
+    position: absolute;
+    background: #efefef;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.marker {
+    background-image: url('assets/map-marker-icon.png');
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    }
+
+.bin {
+    background-image: url('assets/bin.png');
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    }
+.toilet {
+    background-image: url('assets/toilet.png');
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    }
+
+.mapboxgl-popup {
+    max-width: 200px;
+    } 
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    }

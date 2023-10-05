@@ -10,7 +10,7 @@
             <link rel="icon" href="images/akwakwa_logo.png" type="image/icon type">
             <title>EcoProlo® - Connexion</title>
         </head>
-        <body>
+        <body class="bady">
         
         <div class="container-fluid">
                <div class="logo"><a href="landing.php"><img src="images/logo.png"></a></div>

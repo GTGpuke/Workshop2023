@@ -33,6 +33,7 @@
       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
       <!-- style css -->
       <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="stylesheet" type="text/css" href="map.css">
       <!-- Responsive-->
       <link rel="stylesheet" href="css/responsive.css">
       <!-- fevicon -->
@@ -99,22 +100,22 @@
       </div>
       <!-- header section end -->
       <!-- about section start -->
-      <div class="about_section layout_padding">
-         <div class="container-fluid">
-            <div class="row">
-               <div class="col-md-6">
-                  <div class="about_taital_main">
-                     <h1 class="about_taital">À propos de nous</h1>
-                     <p class="about_text">Créé en 2007 par un groupe d'étudiant, Akwakwa® a voulu s'imposer dans le marché de l'aquarium en proposant à ses clients des services personnalisés et abordables, en respectant l'environnement et le bien être des poissons au maximum, 15ans plus tard, l'entreprise compte une grande équipe d'artisans spécialisé dans la frabrication d'aquarium pour répondre le mieux à tous types de projets...  </p>
-                     <div class="readmore_bt"><a href="#">En savoir plus</a></div>
-                  </div>
-               </div>
-               <div class="col-md-6 padding_right_0">
-                  <div><img src="images/about-img.png" class="about_img"></div>
-               </div>
-            </div>
-         </div>
+      <div id="ecart">
+      <div id="requir">
+      <?php include 'carte.html';?>
       </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
       <!-- about section end -->
       <!-- footer section start -->
       <div class="footer_section layout_padding">
@@ -149,6 +150,7 @@
       <!-- copyright section end -->
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>
+      <script src="script.js"></script>
       <script src="js/popper.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
       <script src="js/jquery-3.0.0.min.js"></script>

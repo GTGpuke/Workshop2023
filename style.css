@@ -31,9 +31,8 @@
     text-align: center;
 }
 
-body{
+.bady{
     background-image: url("images/image-fond-connec.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
-
 }

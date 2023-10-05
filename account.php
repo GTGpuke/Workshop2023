@@ -121,6 +121,7 @@
 
                 <div class="text-center">
                         <h1 class="p-5">Bonjour <?php echo $data['pseudo']; ?> !</h1>
+                        <p class="p-5">Date de création : <?php echo $data['date_inscription']; ?></p>
                         <hr />
                         <a href="deconnexion.php" class="btn btn-danger btn-lg">Déconnexion</a>
                         <!-- Button trigger modal -->
