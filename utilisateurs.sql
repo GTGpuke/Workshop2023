@@ -3,12 +3,6 @@ SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
 
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
 --
 -- Structure de la table `utilisateurs`
 --
@@ -26,6 +20,27 @@ CREATE TABLE IF NOT EXISTS `utilisateurs` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 COMMIT;
 
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+--
+-- Structure de la table `ville`
+--
+
+DROP TABLE IF EXISTS ville;
+CREATE TABLE IF NOT EXISTS ville (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  lieu varchar(50) DEFAULT NULL,
+  dates date DEFAULT NULL,
+  horaire time DEFAULT NULL,
+  localisation int(11) DEFAULT NULL,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Structure de la table `commentaire`
+--
+
+DROP TABLE IF EXISTS `commentaire`;
+CREATE TABLE IF NOT EXISTS `commentaire`;(
+ `id` int(11) NOT NULL AUTO_INCREMENT,
+  CONSTRAINT for KEY `id` (`id`) REFERENCES `utilisateurs` (`id`), 
+  `commentaire` varchar(255) NOT NULL,
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
