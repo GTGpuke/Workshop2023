@@ -97,23 +97,8 @@
       <!-- services section start -->
       <div class="services_section layout_padding">
          <div class="container">
-            <h1 class="services_taital">Nos services</h1>
-            <p class="services_text">Nous proposons de nombreux services, allant de la commande de produits standards jusqu'à la réalisations de vos aquariums les plus fous</p>
-            <div class="services_section_2">
-               <div class="row">
-                  <div class="col-md-4">
-                     <div><img src="images/img-1.png" class="services_img"></div>
-                     <div class="btn_main"><a href="#">Entretiens</a></div>
-                  </div>
-                  <div class="col-md-4">
-                     <div><img src="images/img-2.png" class="services_img"></div>
-                     <div class="btn_main"><a href="#">Petits aquariums</a></div>
-                  </div>
-                  <div class="col-md-4">
-                     <div><img src="images/img-3.png" class="services_img"></div>
-                     <div class="btn_main"><a href="#">Grands aquariums</a></div>
-                  </div>
-               </div>
+            <div class="play_icon_main" style="-moz-border-radius: 5%; -webkit-border-radius: 5%;border-radius: 10%;overflow:hidden;position:relative;">
+            <iframe style=" height: 500px; width: 100%; border: none;" class="aaaaaaaaaaaaaaaaaaaaaa" src="https://montpellier3m.fr/collecte" frameborder="0" allowfullscreen></iframe>
             </div>
          </div>
       </div>
