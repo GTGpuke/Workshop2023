@@ -25,7 +25,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>Akwakwa® - Nos Services</title>
+      <title>EcoProlo® - Calendrier</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -129,7 +129,7 @@
                <div class="call_text"><img src="images/call-icon.png"></div>
                <div class="call_text"><a href="#">Appelez 0478953514</a></div>
                <div class="call_text"><img src="images/mail-icon.png"></div>
-               <div class="call_text"><a href="#">customer_service@akwakwa.com</a></div>
+               <div class="call_text"><a href="#">customer_service@ecoprolo.com</a></div>
             </div>
             <div class="social_icon">
                <ul>
@@ -145,7 +145,7 @@
       <!-- copyright section start -->
       <div class="copyright_section">
          <div class="container">
-            <p class="copyright_text">2022 All Rights Reserved. Design by Akwakwa IT service.</p>
+            <p class="copyright_text">2023 All Rights Reserved. Design by EcoProlo IT service.</p>
          </div>
       </div>
       <!-- copyright section end -->
