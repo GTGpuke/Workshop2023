@@ -471,3 +471,47 @@
     top: 0px;
     overflow: visible;
 }
+
+/* Style de la carte */
+body { margin: 0; padding: 0; }
+
+#carte {
+    position: sticky; margin: 15%; padding: 20em; 
+}
+#bar{
+    position:absolute;
+    background: #efefef;
+    padding: 10px;
+
+}
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+#menu {
+    position: absolute;
+    background: #efefef;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.search-container {
+    position: absolute;
+    background: #efefef;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.marker {
+    background-image: url('assets/mapbox-icon.png');
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    }
+
+.mapboxgl-popup {
+    max-width: 200px;
+    } 
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    }
