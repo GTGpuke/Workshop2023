@@ -25,7 +25,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>EcoProlo® - Calendrier</title>
+      <title>EcoProlo® - Compte</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -76,7 +76,7 @@
                            <a class="nav-link " href="commentaire.php">Commentaires</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link " href="account.php">👤</a>
+                           <a class="nav-link " href="account.php">👤 Compte</a>
                         </li>
                      </ul>
                   </div>
@@ -121,7 +121,8 @@
 
                 <div class="text-center">
                         <h1 class="p-5">Bonjour <?php echo $data['pseudo']; ?> !</h1>
-                        <p class="p-5">Date de création : <?php echo $data['date_inscription']; ?></p>
+                        <p class="">Date de création du compte : <?php echo $data['date_inscription']; ?></p>
+                        <p class="">Email du compte : <?php echo $data['email']; ?></p>
                         <hr />
                         <a href="deconnexion.php" class="btn btn-danger btn-lg">Déconnexion</a>
                         <!-- Button trigger modal -->

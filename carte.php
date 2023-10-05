@@ -77,7 +77,7 @@
                            <a class="nav-link " href="commentaire.php">Commentaires</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link " href="account.php">👤</a>
+                           <a class="nav-link " href="account.php">👤 Compte</a>
                         </li>
                      </ul>
                   </div>
