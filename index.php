@@ -7,10 +7,15 @@
             <link rel="stylesheet" href="style.css">
             <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-            <title>Connexion</title>
+            <link rel="icon" href="images/akwakwa_logo.png" type="image/icon type">
+            <title>EcoProlo® - Connexion</title>
         </head>
         <body>
         
+        <div class="container-fluid">
+               <div class="logo"><a href="landing.php"><img src="images/logo.png"></a></div>
+        </div>
+
         <div class="login-form">
              <?php 
                 if(isset($_GET['login_err']))
@@ -55,10 +60,10 @@
                     <input type="password" name="password" class="form-control" placeholder="Mot de passe" required="required" autocomplete="off">
                 </div>
                 <div class="form-group">
-                    <button type="submit" class="btn btn-primary btn-block">Connexion</button>
+                    <button type="submit" class="btn btn-primary btn-block" style="background-color: #227843;">Connexion</button>
                 </div>   
             </form>
-            <p class="text-center"><a href="inscription.php">Inscription</a></p>
+            <p class="text-center"><a href="inscription.php" style="color: #227843; background-color: white; padding: 5px; border-radius:10px;">Inscription</a></p>
         </div>
         </body>
 </html>

@@ -232,6 +232,7 @@ button {
     width: 100%;
     float: left;
     background-image: url(../images/banner-bg.png);
+    background-repeat: no-repeat;
     height: auto;
     background-size: 100%;
     padding: 0px 0px 20px 0px;
@@ -325,7 +326,7 @@ button {
 
 .menu_main li a:hover {
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #227843;
 }
 
 .mb-lg-0,
@@ -393,7 +394,7 @@ button {
 }
 
 .read_bt a:hover {
-    background-color: #2b2278;
+    background-color: #227843;
     color: #ffffff;
 }
 
@@ -448,7 +449,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #227843;
     text-align: center;
     padding: 10px 0px;
     border-radius: 30px;
@@ -527,7 +528,7 @@ button {
 
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #227843;
 }
 
 .about_img {
@@ -727,7 +728,7 @@ button {
 }
 
 .carousel-indicators .active {
-    background-color: #2b2278;
+    background-color: #227843;
 }
 
 
@@ -780,7 +781,7 @@ button {
 }
 
 .read_bt_1 a:hover {
-    background-color: #2b2278;
+    background-color: #227843;
     color: #ffffff;
 }
 
@@ -812,7 +813,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #227843;
     text-align: center;
     padding: 10px 0px;
     border-radius: 30px;
@@ -856,7 +857,7 @@ button {
     margin-bottom: 20px;
     padding: 10px 15px;
     border: 0px;
-    border: 1px solid #2b2278 !important;
+    border: 1px solid #227843 !important;
 }
 .massage-bt {
     width: 100%;
@@ -866,7 +867,7 @@ button {
     margin-bottom: 20px;
     padding: 10px 15px;
     border: 0px;
-    border: 1px solid #2b2278 !important;
+    border: 1px solid #227843 !important;
 }
 .send_btn {
     width: 170px;
@@ -885,7 +886,7 @@ button {
 }
 .send_btn a:hover {
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #227843;
 }
 /* contact section end */
 
@@ -933,7 +934,7 @@ button {
     width: 170px;
     float: left;
     font-size: 18px;
-    color: #2b2278;
+    color: #227843;
     background-color: transparent;
     padding: 5px 0px;
     text-align: center;

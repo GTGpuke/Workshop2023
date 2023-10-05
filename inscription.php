@@ -7,9 +7,15 @@
             <link rel="stylesheet" href="style.css">
             <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-            <title>Inscription</title>
+            <link rel="icon" href="images/akwakwa_logo.png" type="image/icon type">
+            <title>EcoProlo® - Inscription</title>
         </head>
         <body>
+
+        <div class="container-fluid">
+               <div class="logo"><a href="landing.php"><img src="images/logo.png"></a></div>
+        </div>
+
         <div class="login-form">
             <?php 
                 if(isset($_GET['reg_err']))
@@ -24,6 +30,9 @@
                                 <strong>Succès</strong> inscription réussie !
                             </div>
                         <?php
+                        sleep(0.5);
+                        header('Location: index.php');
+                        exit();
                         break;
 
                         case 'password':
@@ -82,7 +91,7 @@
                     <input type="password" name="password_retype" class="form-control" placeholder="Re-tapez le mot de passe" required="required" autocomplete="off">
                 </div>
                 <div class="form-group">
-                    <button type="submit" class="btn btn-primary btn-block">Inscription</button>
+                    <button type="submit" class="btn btn-primary btn-block" style="background-color: #227843;">Inscription</button>
                 </div>   
             </form>
         </div>

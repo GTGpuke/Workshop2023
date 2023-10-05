@@ -97,22 +97,22 @@
                <div class="carousel-inner">
                   <div class="carousel-item active">
                      <div class="container">
-                        <h1 class="banner_taital">Aquariums exceptionnels</h1>
-                        <p class="banner_text">Akwakwa® est reconnu mondialement pour la qualité, le niveau de détails, de finitions et d'efforts misent en place pour chaque commandes.</p>
+                        <h1 class="banner_taital">Service exceptionnel</h1>
+                        <p class="banner_text">EcoProlo® est reconnu nationalement pour la qualité de ses services, ainsi que de son service client, la carte est régulièrement mise à jour.</p>
                         <div class="read_bt"><a href="#">En savoir plus</a></div>
                      </div>
                   </div>
                   <div class="carousel-item">
                      <div class="container">
-                        <h1 class="banner_taital">Une qualité supérieure</h1>
-                        <p class="banner_text">Akwakwa® s'engage à livrer à ses clients des produits avec des matériaux de qualité, d'origine renouvelable et suivant les normes européens.</p>
+                        <h1 class="banner_taital">Une communauté écoutée</h1>
+                        <p class="banner_text">EcoProlo® s'engage à écouter sa communauté, et de ne pas mettre de publicités sur son site.</p>
                         <div class="read_bt"><a href="#">En savoir plus</a></div>
                      </div>
                   </div>
                   <div class="carousel-item">
                      <div class="container">
-                        <h1 class="banner_taital">Pour tous les budgets</h1>
-                        <p class="banner_text">Le but d'Akwakwa® est de transmettre la passion de l'aquariophilie à tous, pour cela, elle s'engage depuis ça création à correspondre à tous les budgets.</p>
+                        <h1 class="banner_taital">Pour tous le monde!</h1>
+                        <p class="banner_text">Le but d'EcoProlo® est de transmettre la passion des poubelles et du recyclage à tous, pour cela, elle s'engage depuis ça création à correspondre à tous utilisateurs.</p>
                         <div class="read_bt"><a href="#">En savoir plus</a></div>
                      </div>
                   </div>
@@ -122,133 +122,12 @@
          <!-- banner section end -->
       </div>
       <!-- header section end -->
-      <!-- services section start -->
-      <div class="services_section layout_padding">
-         <div class="container">
-            <h1 class="services_taital">Nos services</h1>
-            <p class="services_text">Nous proposons de nombreux services, allant de la commande de produits standards jusqu'à la réalisations de vos aquariums les plus fous</p>
-            <div class="services_section_2">
-               <div class="row">
-                  <div class="col-md-4">
-                     <div><img src="images/img-1.png" class="services_img"></div>
-                     <div class="btn_main"><a href="#">Entretiens</a></div>
-                  </div>
-                  <div class="col-md-4">
-                     <div><img src="images/img-2.png" class="services_img"></div>
-                     <div class="btn_main active"><a href="#">Petits aquariums</a></div>
-                  </div>
-                  <div class="col-md-4">
-                     <div><img src="images/img-3.png" class="services_img"></div>
-                     <div class="btn_main"><a href="#">Grands aquariums</a></div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- services section end -->
-      <!-- about section start -->
-      <div class="about_section layout_padding">
-         <div class="container-fluid">
-            <div class="row">
-               <div class="col-md-6">
-                  <div class="about_taital_main">
-                     <h1 class="about_taital">À propos de nous</h1>
-                     <p class="about_text">Créé en 2007 par un groupe d'étudiant, Akwakwa® a voulu s'imposer dans le marché de l'aquarium en proposant à ses clients des services personnalisés et abordables, en respectant l'environnement et le bien être des poissons au maximum, 15ans plus tard, l'entreprise compte une grande équipe d'artisans spécialisé dans la frabrication d'aquarium pour répondre le mieux à tous types de projets...  </p>
-                     <div class="readmore_bt"><a href="#">En savoir plus</a></div>
-                  </div>
-               </div>
-               <div class="col-md-6 padding_right_0">
-                  <div><img src="images/about-img.png" class="about_img"></div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- about section end -->
-      <!-- blog section start -->
-      <div class="blog_section layout_padding">
-         <div class="container">
-            <h1 class="blog_taital">Notre savoir-faire</h1>
-            <p class="blog_text">Dans la vidéo si dessous, vous verrez nos méthodes de fabrications d'aquariums, ainsi vous pourrez admirrer tout le soin et l'attention que nous portons à nos produits.</p>
-            <div class="play_icon_main">
-               <div class="play_icon"><a href="https://www.youtube.com/watch?v=KVW-OjaHwj4"><img src="images/play-icon.png"></a></div>
-            </div>
-         </div>
-      </div>
-      <!-- blog section end -->
-      <!-- client section start -->
-      <div class="client_section layout_padding">
-         <div class="container">
-            <h1 class="client_taital">Témoignages</h1>
-            <div class="client_section_2">
-               <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                  <ol class="carousel-indicators">
-                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                  </ol>
-                  <div class="carousel-inner">
-                     <div class="carousel-item active">
-                        <div class="client_main">
-                           <div class="box_left">
-                              <p class="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugia</p>
-                           </div>
-                           <div class="box_right">
-                              <div class="client_taital_left">
-                                 <div class="client_img"><img src="images/client-img.png"></div>
-                                 <div class="quick_icon"><img src="images/quick-icon.png"></div>
-                              </div>
-                              <div class="client_taital_right">
-                                 <h4 class="client_name">David</h4>
-                                 <p class="customer_text">Client</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="carousel-item">
-                        <div class="client_main">
-                           <div class="box_left">
-                              <p class="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugia</p>
-                           </div>
-                           <div class="box_right">
-                              <div class="client_taital_left">
-                                 <div class="client_img"><img src="images/client-img.png"></div>
-                                 <div class="quick_icon"><img src="images/quick-icon.png"></div>
-                              </div>
-                              <div class="client_taital_right">
-                                 <h4 class="client_name">David</h4>
-                                 <p class="customer_text">Client</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="carousel-item">
-                        <div class="client_main">
-                           <div class="box_left">
-                              <p class="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugia</p>
-                           </div>
-                           <div class="box_right">
-                              <div class="client_taital_left">
-                                 <div class="client_img"><img src="images/client-img.png"></div>
-                                 <div class="quick_icon"><img src="images/quick-icon.png"></div>
-                              </div>
-                              <div class="client_taital_right">
-                                 <h4 class="client_name">David</h4>
-                                 <p class="customer_text">Client</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- client section start -->
       <!-- choose section start -->
       <div class="choose_section layout_padding">
          <div class="container">
-            <h1 class="choose_taital">Pourquoi Akwakwa?</h1>
-            <p class="choose_text">Akwakwa est le numéro #1 dans la confection d'aquarium personnalisés, pour toutes les tailles et tous les budgets! Nous travaillons aussi bien avec des particuliers ou des professionnels.</p>
+            <h1 class="choose_taital">Pourquoi EcoProlo?</h1>
+            <p class="choose_text">EcoProlo est le numéro #1 dans le référencement, dans la plupart des villes de France! </p>
+            <br><br>
             <div class="read_bt_1"><a href="#">En savoir plus</a></div>
             <div class="newsletter_box">
                <h1 class="let_text">Besoin de nous parler?</h1>
