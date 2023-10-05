@@ -75,6 +75,9 @@
                         <li class="nav-item">
                            <a class="nav-link " href="commentaire.php">Commentaires</a>
                         </li>
+                        <li class="nav-item">
+                           <a class="nav-link " href="account.php">👤</a>
+                        </li>
                      </ul>
                   </div>
                </nav>
@@ -88,6 +91,7 @@
                      <li><a href="calendrier.php">Calendrier Poubelle</a></li>
                      <li><a href="actualite.php">Actualités</a></li>
                      <li><a href="commentaire.php">Commentaires</a></li>
+                     <li><a href="account.php">👤 Compte</a></li>
                   </ul>
                </div>
             </div>

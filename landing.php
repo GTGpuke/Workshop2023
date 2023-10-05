@@ -74,6 +74,9 @@
                         <li class="nav-item">
                            <a class="nav-link " href="commentaire.php">Commentaires</a>
                         </li>
+                        <li class="nav-item">
+                           <a class="nav-link " href="account.php">👤</a>
+                        </li>
                      </ul>
                   </div>
                </nav>
@@ -87,6 +90,7 @@
                      <li><a href="calendrier.php">Calendrier Poubelle</a></li>
                      <li><a href="actualite.php">Actualités</a></li>
                      <li><a href="commentaire.php">Commentaires</a></li>
+                     <li><a href="account.php">👤 Compte</a></li>
                   </ul>
                </div>
             </div>
@@ -111,8 +115,8 @@
                   </div>
                   <div class="carousel-item">
                      <div class="container">
-                        <h1 class="banner_taital">Pour tous le monde!</h1>
-                        <p class="banner_text">Le but d'EcoProlo® est de transmettre la passion des poubelles et du recyclage à tous, pour cela, elle s'engage depuis ça création à correspondre à tous utilisateurs.</p>
+                        <h1 class="banner_taital">Pour tout le monde!</h1>
+                        <p class="banner_text">Le but d'EcoProlo® est de transmettre la passion des poubelles et du recyclage à tous, pour cela, elle s'engage depuis ça création à correspondre à tout utilisateurs.</p>
                         <div class="read_bt"><a href="#">En savoir plus</a></div>
                      </div>
                   </div>

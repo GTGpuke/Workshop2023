@@ -76,7 +76,7 @@
                 }
                 ?>
             
-            <form action="inscription_traitement.php" method="post">
+            <form action="inscription_traitement.php" method="post" style="border-radius:20px">
                 <h2 class="text-center">Inscription</h2>       
                 <div class="form-group">
                     <input type="text" name="pseudo" class="form-control" placeholder="Pseudo" required="required" autocomplete="off">
